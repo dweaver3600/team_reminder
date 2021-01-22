@@ -4,7 +4,7 @@ I'm still learning how to use powershell but its a spectacular tool.
 
 
 
-##HOW TO USE THE SCRIPT
+### HOW TO USE THE SCRIPT
 
 Copy script.ps1 into your desired folder\
 	- default C:\Users\Public\
@@ -22,8 +22,8 @@ Double click Which Team to execute
 
 
 
-#Known Issue\
+#### Known Issue\
 Because the program relies on the number of days that have passed since 1/3/2021, the program will become unreliable after a number of leap years.\
 
-#Future Fix:\
+#### Future Fix:\
 Instead of relying on the number of days, count each Sunday (the beginning of the work week) that appears between today and 1/3/2021.
